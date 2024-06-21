@@ -22,7 +22,7 @@ With a passion for leveraging technology to create efficient, scalable, and secu
 
 - Wireless Networking: Wireless Standard(802.11), Wireless Security, WLC Management, Tshoot of RF, Monitoring the WLC through telemetry etc.
   
-- Routing and Switching: OSPF, EIGRP, BGP, PBR, BFD, IPSLA, VRF, VLAN, DTP, VTP, STP, Link Agg., vPC, FHRP, ARP, DAI, DHCP Snooping, etc.
+- Routing, Switching and Overrelay Technology: OSPF, EIGRP, BGP, PBR, BFD, IPSLA, VRF, VLAN, DTP, VTP, STP, Link Agg., vPC, FHRP, ARP, DAI, DHCP Snooping, MPLS and VxLAN etc.
   
 - Security Implementations: Knowledgeable in implementing and managing security protocols to safeguard network infrastructure.
 
